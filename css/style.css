@@ -221,7 +221,7 @@ body {
   -webkit-transform: translate(-50%);
   -ms-transform: translate(-50%);
   transform: translate(-50%);
-  background: url('../img/many.jpg') -3px 0 no-repeat
+  background: url('../img/many.png') -3px 0 no-repeat
 }
 
 .content_menu:nth-child(2) .content_body:nth-child(2):before {
@@ -550,7 +550,7 @@ input {
   display: block;
   width: 38px;
   height: 48px;
-  background: url("../img/many.jpg") -426px -24px no-repeat
+  background: url("../img/many.png") -426px -24px no-repeat
 }
 
 .fb a {
